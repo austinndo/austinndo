@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Full-Stack React Apps
+- 🌱 I’m currently learning JavaScript, HTML, CSS, MongoDB, React, Express, NodeJS
+- 💬 Ask me about the biotech industry, genome editing, and CRISPR!
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I've got a twin brother but we have different birthdays!
