@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Full-Stack React Apps
+- 🔭 I’m currently working on Plotly Dash and Full-Stack React Apps
 - 🌱 I’m currently learning JavaScript, HTML, CSS, MongoDB, React, Express, NodeJS
 - 💬 Ask me about the biotech industry, genome editing, and CRISPR!
 - 😄 Pronouns: he/him
